@@ -147,6 +147,7 @@ augroup end
                  \ | hi Search cterm=NONE ctermbg=yellow ctermfg=black
                  \ | hi IncSearch cterm=NONE ctermbg=red ctermfg=black
                  \ | hi Visual cterm=NONE ctermbg=white ctermfg=darkblue
+                 \ | hi SignColumn cterm=NONE ctermbg=black ctermfg=white 
 
 
  colorscheme slate
